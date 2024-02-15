@@ -1,0 +1,24 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --dark-blue: rgba(4, 4, 69, 1);
+  --dark-brown: rgba(71, 67, 6, 1);
+  --engenharia-de-software-font-family: "Poppins-ExtraBold", Helvetica;
+  --engenharia-de-software-font-size: 100px;
+  --engenharia-de-software-font-style: normal;
+  --engenharia-de-software-font-weight: 800;
+  --engenharia-de-software-letter-spacing: 0px;
+  --engenharia-de-software-line-height: 116px;
+  --f-5ee-84: rgba(245, 238, 132, 1);
+  --light-yellow: rgba(251, 248, 204, 1);
+  --too-light-yellow: rgba(247, 241, 151, 1);
+  --x-258-3b-42-1d-027414-4b-457-2ac-8e-8-6f-2-5a-3: rgba(217, 217, 217, 1);
+  --yellow: rgba(245, 238, 132, 1);
+}
